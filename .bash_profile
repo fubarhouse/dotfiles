@@ -50,10 +50,4 @@ export ANSIBLE_NOCOWS=1
 # Python
 eval "$($HOME/.pyenv/bin/pyenv init -)"
 
-# Ruby
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
-export PATH="$HOME/.rvm/gems/ruby-2.3.0/bin:${PATH}";
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-export PATH="$HOME/.rvm/gems/ruby-2.3.0/bin:$PATH"
-
 shopt -s extdebug
