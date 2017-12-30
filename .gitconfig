@@ -12,7 +12,7 @@
   interactive = auto
   status = auto
 [gpg]
-  program = gpg1
+  program = gpg
 [web]
   browser = google-chrome
 [credential]
