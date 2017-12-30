@@ -1,7 +1,6 @@
 [user]
   name = Karl Hepworth
   email = karl.hepworth@gmail.com
-  signingkey = 606501EE
 [core]
   excludesfile = ~/.gitignore
 [color]
