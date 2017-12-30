@@ -47,4 +47,8 @@ export VAGRANT_DEFAULT_PROVIDER='virtualbox'
 # Disable cowsay in Ansible.
 export ANSIBLE_NOCOWS=1
 
+# Go Environment Variables
+export GOPATH="${HOME}/go"
+export GOROOT="/usr/local/go"
+
 shopt -s extdebug
