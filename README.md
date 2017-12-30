@@ -1,3 +1,5 @@
-# geerlingguy's dotfiles
+# FubarHouse's dotfiles
 
-My configuration. Minimalist, but helps save a few thousand keystrokes a day. I use Mac OS X, so I can only guarantee they'll work with OS X, but I use some of these dotfiles on various linux servers, and they seem to be pretty flexible.
+My configuration for my MacBook accounts, which is expected to evolve over time.
+
+This is originally a fork of [Jeff Geerling](https://twitter.com/geerlingguy)'s (dotfiles repository)[https://github.com/geerlingguy/dotfiles], and is used within my fork of his (Mac Dev Playbook)[https://github.com/geerlingguy/mac-dev-playbook] found (here)[https://github.com/fubarhouse/mac-dev-playbook].
