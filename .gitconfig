@@ -3,6 +3,7 @@
   email = karl.hepworth@gmail.com
 [core]
   excludesfile = ~/.gitignore
+  editor = 'micro'
 [color]
   branch = auto
   diff = auto
