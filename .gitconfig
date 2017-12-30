@@ -19,6 +19,8 @@
   prompt = false
 [alias]
   c = commit
+  sc = commit -s
+  scm = commit -sm
   ca = commit -a
   cm = commit -m
   cam = commit -am
